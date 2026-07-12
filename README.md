@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:JATIN CHAUDHARY
 ## 👨‍💻 About Me<br><br>✨ Code. Learn. Build. Repeat.<br><br>🚀 Crafting scalable applications<br><br>🌱 Exploring new technologies<br><br>🤝 Love collaborating with developers<br><br>💬 Let's talk about Tech, Startups, and Open Source<br><br>⚡ Debugging is my daily workout.
 
 
