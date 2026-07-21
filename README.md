@@ -19,8 +19,8 @@
 
 # 💫 About Me
 
-- 🌱 Learning **Backend Development, System Design & DSA**
-- 💻 Building **MERN Stack** projects
+- 🌱 Learning **Web Development,DSA**
+- 💻 Building **Web Devlopment** projects
 - 🚀 Interested in scalable backend systems
 - 🤝 Open to Open Source collaborations
 - 🎯 Goal: Software Engineer at a product-based company
